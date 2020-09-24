@@ -1,0 +1,25 @@
+.hide {
+  display: none;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.clear {
+  clear: both;
+}
+#reset-container,
+h1 {
+  text-align: center;
+}
+.basketball {
+  width: 1px;
+  height: 10px;
+  position: relative;
+  left: 460px;
+}
+body {
+  background-color: gold;
+}
